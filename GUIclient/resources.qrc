@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/textures">
+        <file>ally.png</file>
+        <file>background.jpg</file>
+        <file>enemy.png</file>
+        <file>fort.png</file>
+        <file>archer.png</file>
+    </qresource>
+</RCC>
